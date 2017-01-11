@@ -9,6 +9,7 @@
         "no-caller": "off",
         "no-case-declarations": "error",
         "no-catch-shadow": "off",
+        "no-chained-assignments": "off",
         "no-class-assign": "error",
         "no-cond-assign": "error",
         "no-confusing-arrow": "off",
